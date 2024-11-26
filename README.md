@@ -1,5 +1,5 @@
 # Attendance Log
-Web API to log attendance of users into a SQL Server database.  Can be used for a variety of application i.e., schools, conferences, offices etc.   Tables below summarise how to input data into Location, Log, and User categories.
+Web API to log attendance of users into a SQL Server database.  Can be used in a variety of applications i.e., schools, conferences, offices etc.   Tables below summarise how to input data into Location, Log, and User categories.
 
 ## Location
 Description  | URL  | Input Required  | Input Type
