@@ -1,0 +1,6 @@
+@Demo2CoreAPICrud_HostAddress = http://localhost:5053
+
+GET {{Demo2CoreAPICrud_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
