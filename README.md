@@ -1,5 +1,5 @@
 # Attendance Log demo
-## Link for feedback comments: https://buymeacoffee.com/s.begum
+#### Link for feedback comments: https://buymeacoffee.com/s.begum
 
 Web API to log attendance of users into a SQL Server database.  Can be used in a variety of applications i.e., schools, conferences, offices etc.   Tables below summarise how to input data into Location, Log, and User categories.
 
